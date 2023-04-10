@@ -1,0 +1,9 @@
+:root {
+  --yellow: #fae100;
+  --background: #4a5678;
+  --second-color: #b4ecfb;
+  --third-color: #262628;
+  --nav-color: #918f8d;
+  --horizontal-space: 25px;
+  --main-border: 1px solid rgba(0, 0, 0, 0.2);
+}
